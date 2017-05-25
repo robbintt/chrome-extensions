@@ -1,0 +1,6 @@
+[submodule "uBlock"]
+	path = uBlock
+	url = git@github.com:gorhill/uBlock.git
+[submodule "uAssets"]
+	path = uAssets
+	url = git@github.com:uBlockOrigin/uAssets.git
