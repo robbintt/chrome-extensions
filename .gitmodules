@@ -4,3 +4,6 @@
 [submodule "uAssets"]
 	path = uAssets
 	url = git@github.com:uBlockOrigin/uAssets.git
+[submodule "uMatrix"]
+	path = uMatrix
+	url = git@github.com:gorhill/uMatrix.git
